@@ -1,0 +1,14 @@
+C:\Users\monde.LAPTOP-EQMJR3R3\OneDrive\Documenten\Data\Programmeren\Applicatieontwikkeling\Inleiding programmeren\08 Methodes\Les_08\bin\Debug\netcoreapp3.1\Les_08.exe
+C:\Users\monde.LAPTOP-EQMJR3R3\OneDrive\Documenten\Data\Programmeren\Applicatieontwikkeling\Inleiding programmeren\08 Methodes\Les_08\bin\Debug\netcoreapp3.1\Les_08.deps.json
+C:\Users\monde.LAPTOP-EQMJR3R3\OneDrive\Documenten\Data\Programmeren\Applicatieontwikkeling\Inleiding programmeren\08 Methodes\Les_08\bin\Debug\netcoreapp3.1\Les_08.runtimeconfig.json
+C:\Users\monde.LAPTOP-EQMJR3R3\OneDrive\Documenten\Data\Programmeren\Applicatieontwikkeling\Inleiding programmeren\08 Methodes\Les_08\bin\Debug\netcoreapp3.1\Les_08.runtimeconfig.dev.json
+C:\Users\monde.LAPTOP-EQMJR3R3\OneDrive\Documenten\Data\Programmeren\Applicatieontwikkeling\Inleiding programmeren\08 Methodes\Les_08\bin\Debug\netcoreapp3.1\Les_08.dll
+C:\Users\monde.LAPTOP-EQMJR3R3\OneDrive\Documenten\Data\Programmeren\Applicatieontwikkeling\Inleiding programmeren\08 Methodes\Les_08\bin\Debug\netcoreapp3.1\Les_08.pdb
+C:\Users\monde.LAPTOP-EQMJR3R3\OneDrive\Documenten\Data\Programmeren\Applicatieontwikkeling\Inleiding programmeren\08 Methodes\Les_08\obj\Debug\netcoreapp3.1\Les_08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monde.LAPTOP-EQMJR3R3\OneDrive\Documenten\Data\Programmeren\Applicatieontwikkeling\Inleiding programmeren\08 Methodes\Les_08\obj\Debug\netcoreapp3.1\Les_08.AssemblyInfoInputs.cache
+C:\Users\monde.LAPTOP-EQMJR3R3\OneDrive\Documenten\Data\Programmeren\Applicatieontwikkeling\Inleiding programmeren\08 Methodes\Les_08\obj\Debug\netcoreapp3.1\Les_08.AssemblyInfo.cs
+C:\Users\monde.LAPTOP-EQMJR3R3\OneDrive\Documenten\Data\Programmeren\Applicatieontwikkeling\Inleiding programmeren\08 Methodes\Les_08\obj\Debug\netcoreapp3.1\Les_08.csproj.CoreCompileInputs.cache
+C:\Users\monde.LAPTOP-EQMJR3R3\OneDrive\Documenten\Data\Programmeren\Applicatieontwikkeling\Inleiding programmeren\08 Methodes\Les_08\obj\Debug\netcoreapp3.1\Les_08.dll
+C:\Users\monde.LAPTOP-EQMJR3R3\OneDrive\Documenten\Data\Programmeren\Applicatieontwikkeling\Inleiding programmeren\08 Methodes\Les_08\obj\Debug\netcoreapp3.1\Les_08.pdb
+C:\Users\monde.LAPTOP-EQMJR3R3\OneDrive\Documenten\Data\Programmeren\Applicatieontwikkeling\Inleiding programmeren\08 Methodes\Les_08\obj\Debug\netcoreapp3.1\Les_08.genruntimeconfig.cache
+C:\Users\monde.LAPTOP-EQMJR3R3\OneDrive\Documenten\Data\Programmeren\Applicatieontwikkeling\Inleiding programmeren\08 Methodes\Les_08\obj\Debug\netcoreapp3.1\Les_08.csproj.AssemblyReference.cache

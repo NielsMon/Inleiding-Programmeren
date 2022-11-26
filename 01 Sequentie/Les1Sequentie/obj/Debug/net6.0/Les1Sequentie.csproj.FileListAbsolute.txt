@@ -1,0 +1,15 @@
+C:\Users\monde.LAPTOP-EQMJR3R3\OneDrive\Documenten\Data\Programmeren\Applicatieontwikkeling\Inleiding programmeren\01 Sequentie\Les1Sequentie\bin\Debug\net6.0\Les1Sequentie.exe
+C:\Users\monde.LAPTOP-EQMJR3R3\OneDrive\Documenten\Data\Programmeren\Applicatieontwikkeling\Inleiding programmeren\01 Sequentie\Les1Sequentie\bin\Debug\net6.0\Les1Sequentie.deps.json
+C:\Users\monde.LAPTOP-EQMJR3R3\OneDrive\Documenten\Data\Programmeren\Applicatieontwikkeling\Inleiding programmeren\01 Sequentie\Les1Sequentie\bin\Debug\net6.0\Les1Sequentie.runtimeconfig.json
+C:\Users\monde.LAPTOP-EQMJR3R3\OneDrive\Documenten\Data\Programmeren\Applicatieontwikkeling\Inleiding programmeren\01 Sequentie\Les1Sequentie\bin\Debug\net6.0\Les1Sequentie.dll
+C:\Users\monde.LAPTOP-EQMJR3R3\OneDrive\Documenten\Data\Programmeren\Applicatieontwikkeling\Inleiding programmeren\01 Sequentie\Les1Sequentie\bin\Debug\net6.0\ref\Les1Sequentie.dll
+C:\Users\monde.LAPTOP-EQMJR3R3\OneDrive\Documenten\Data\Programmeren\Applicatieontwikkeling\Inleiding programmeren\01 Sequentie\Les1Sequentie\bin\Debug\net6.0\Les1Sequentie.pdb
+C:\Users\monde.LAPTOP-EQMJR3R3\OneDrive\Documenten\Data\Programmeren\Applicatieontwikkeling\Inleiding programmeren\01 Sequentie\Les1Sequentie\obj\Debug\net6.0\Les1Sequentie.csproj.AssemblyReference.cache
+C:\Users\monde.LAPTOP-EQMJR3R3\OneDrive\Documenten\Data\Programmeren\Applicatieontwikkeling\Inleiding programmeren\01 Sequentie\Les1Sequentie\obj\Debug\net6.0\Les1Sequentie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monde.LAPTOP-EQMJR3R3\OneDrive\Documenten\Data\Programmeren\Applicatieontwikkeling\Inleiding programmeren\01 Sequentie\Les1Sequentie\obj\Debug\net6.0\Les1Sequentie.AssemblyInfoInputs.cache
+C:\Users\monde.LAPTOP-EQMJR3R3\OneDrive\Documenten\Data\Programmeren\Applicatieontwikkeling\Inleiding programmeren\01 Sequentie\Les1Sequentie\obj\Debug\net6.0\Les1Sequentie.AssemblyInfo.cs
+C:\Users\monde.LAPTOP-EQMJR3R3\OneDrive\Documenten\Data\Programmeren\Applicatieontwikkeling\Inleiding programmeren\01 Sequentie\Les1Sequentie\obj\Debug\net6.0\Les1Sequentie.csproj.CoreCompileInputs.cache
+C:\Users\monde.LAPTOP-EQMJR3R3\OneDrive\Documenten\Data\Programmeren\Applicatieontwikkeling\Inleiding programmeren\01 Sequentie\Les1Sequentie\obj\Debug\net6.0\Les1Sequentie.dll
+C:\Users\monde.LAPTOP-EQMJR3R3\OneDrive\Documenten\Data\Programmeren\Applicatieontwikkeling\Inleiding programmeren\01 Sequentie\Les1Sequentie\obj\Debug\net6.0\ref\Les1Sequentie.dll
+C:\Users\monde.LAPTOP-EQMJR3R3\OneDrive\Documenten\Data\Programmeren\Applicatieontwikkeling\Inleiding programmeren\01 Sequentie\Les1Sequentie\obj\Debug\net6.0\Les1Sequentie.pdb
+C:\Users\monde.LAPTOP-EQMJR3R3\OneDrive\Documenten\Data\Programmeren\Applicatieontwikkeling\Inleiding programmeren\01 Sequentie\Les1Sequentie\obj\Debug\net6.0\Les1Sequentie.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\monde.LAPTOP-EQMJR3R3\OneDrive\Documenten\Data\Programmeren\Applicatieontwikkeling\Inleiding programmeren\07 Collections\oef_07_00\bin\Debug\netcoreapp3.1\oef_07_00.exe
+C:\Users\monde.LAPTOP-EQMJR3R3\OneDrive\Documenten\Data\Programmeren\Applicatieontwikkeling\Inleiding programmeren\07 Collections\oef_07_00\bin\Debug\netcoreapp3.1\oef_07_00.deps.json
+C:\Users\monde.LAPTOP-EQMJR3R3\OneDrive\Documenten\Data\Programmeren\Applicatieontwikkeling\Inleiding programmeren\07 Collections\oef_07_00\bin\Debug\netcoreapp3.1\oef_07_00.runtimeconfig.json
+C:\Users\monde.LAPTOP-EQMJR3R3\OneDrive\Documenten\Data\Programmeren\Applicatieontwikkeling\Inleiding programmeren\07 Collections\oef_07_00\bin\Debug\netcoreapp3.1\oef_07_00.runtimeconfig.dev.json
+C:\Users\monde.LAPTOP-EQMJR3R3\OneDrive\Documenten\Data\Programmeren\Applicatieontwikkeling\Inleiding programmeren\07 Collections\oef_07_00\bin\Debug\netcoreapp3.1\oef_07_00.dll
+C:\Users\monde.LAPTOP-EQMJR3R3\OneDrive\Documenten\Data\Programmeren\Applicatieontwikkeling\Inleiding programmeren\07 Collections\oef_07_00\bin\Debug\netcoreapp3.1\oef_07_00.pdb
+C:\Users\monde.LAPTOP-EQMJR3R3\OneDrive\Documenten\Data\Programmeren\Applicatieontwikkeling\Inleiding programmeren\07 Collections\oef_07_00\obj\Debug\netcoreapp3.1\oef_07_00.csproj.AssemblyReference.cache
+C:\Users\monde.LAPTOP-EQMJR3R3\OneDrive\Documenten\Data\Programmeren\Applicatieontwikkeling\Inleiding programmeren\07 Collections\oef_07_00\obj\Debug\netcoreapp3.1\oef_07_00.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monde.LAPTOP-EQMJR3R3\OneDrive\Documenten\Data\Programmeren\Applicatieontwikkeling\Inleiding programmeren\07 Collections\oef_07_00\obj\Debug\netcoreapp3.1\oef_07_00.AssemblyInfoInputs.cache
+C:\Users\monde.LAPTOP-EQMJR3R3\OneDrive\Documenten\Data\Programmeren\Applicatieontwikkeling\Inleiding programmeren\07 Collections\oef_07_00\obj\Debug\netcoreapp3.1\oef_07_00.AssemblyInfo.cs
+C:\Users\monde.LAPTOP-EQMJR3R3\OneDrive\Documenten\Data\Programmeren\Applicatieontwikkeling\Inleiding programmeren\07 Collections\oef_07_00\obj\Debug\netcoreapp3.1\oef_07_00.csproj.CoreCompileInputs.cache
+C:\Users\monde.LAPTOP-EQMJR3R3\OneDrive\Documenten\Data\Programmeren\Applicatieontwikkeling\Inleiding programmeren\07 Collections\oef_07_00\obj\Debug\netcoreapp3.1\oef_07_00.dll
+C:\Users\monde.LAPTOP-EQMJR3R3\OneDrive\Documenten\Data\Programmeren\Applicatieontwikkeling\Inleiding programmeren\07 Collections\oef_07_00\obj\Debug\netcoreapp3.1\oef_07_00.pdb
+C:\Users\monde.LAPTOP-EQMJR3R3\OneDrive\Documenten\Data\Programmeren\Applicatieontwikkeling\Inleiding programmeren\07 Collections\oef_07_00\obj\Debug\netcoreapp3.1\oef_07_00.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\monde.LAPTOP-EQMJR3R3\OneDrive\Documenten\Data\Programmeren\Applicatieontwikkeling\Inleiding programmeren\01 Sequentie\oef_01_09\bin\Debug\netcoreapp3.1\oef_01_09.exe
+C:\Users\monde.LAPTOP-EQMJR3R3\OneDrive\Documenten\Data\Programmeren\Applicatieontwikkeling\Inleiding programmeren\01 Sequentie\oef_01_09\bin\Debug\netcoreapp3.1\oef_01_09.deps.json
+C:\Users\monde.LAPTOP-EQMJR3R3\OneDrive\Documenten\Data\Programmeren\Applicatieontwikkeling\Inleiding programmeren\01 Sequentie\oef_01_09\bin\Debug\netcoreapp3.1\oef_01_09.runtimeconfig.json
+C:\Users\monde.LAPTOP-EQMJR3R3\OneDrive\Documenten\Data\Programmeren\Applicatieontwikkeling\Inleiding programmeren\01 Sequentie\oef_01_09\bin\Debug\netcoreapp3.1\oef_01_09.runtimeconfig.dev.json
+C:\Users\monde.LAPTOP-EQMJR3R3\OneDrive\Documenten\Data\Programmeren\Applicatieontwikkeling\Inleiding programmeren\01 Sequentie\oef_01_09\bin\Debug\netcoreapp3.1\oef_01_09.dll
+C:\Users\monde.LAPTOP-EQMJR3R3\OneDrive\Documenten\Data\Programmeren\Applicatieontwikkeling\Inleiding programmeren\01 Sequentie\oef_01_09\bin\Debug\netcoreapp3.1\oef_01_09.pdb
+C:\Users\monde.LAPTOP-EQMJR3R3\OneDrive\Documenten\Data\Programmeren\Applicatieontwikkeling\Inleiding programmeren\01 Sequentie\oef_01_09\obj\Debug\netcoreapp3.1\oef_01_09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monde.LAPTOP-EQMJR3R3\OneDrive\Documenten\Data\Programmeren\Applicatieontwikkeling\Inleiding programmeren\01 Sequentie\oef_01_09\obj\Debug\netcoreapp3.1\oef_01_09.AssemblyInfoInputs.cache
+C:\Users\monde.LAPTOP-EQMJR3R3\OneDrive\Documenten\Data\Programmeren\Applicatieontwikkeling\Inleiding programmeren\01 Sequentie\oef_01_09\obj\Debug\netcoreapp3.1\oef_01_09.AssemblyInfo.cs
+C:\Users\monde.LAPTOP-EQMJR3R3\OneDrive\Documenten\Data\Programmeren\Applicatieontwikkeling\Inleiding programmeren\01 Sequentie\oef_01_09\obj\Debug\netcoreapp3.1\oef_01_09.csproj.CoreCompileInputs.cache
+C:\Users\monde.LAPTOP-EQMJR3R3\OneDrive\Documenten\Data\Programmeren\Applicatieontwikkeling\Inleiding programmeren\01 Sequentie\oef_01_09\obj\Debug\netcoreapp3.1\oef_01_09.dll
+C:\Users\monde.LAPTOP-EQMJR3R3\OneDrive\Documenten\Data\Programmeren\Applicatieontwikkeling\Inleiding programmeren\01 Sequentie\oef_01_09\obj\Debug\netcoreapp3.1\oef_01_09.pdb
+C:\Users\monde.LAPTOP-EQMJR3R3\OneDrive\Documenten\Data\Programmeren\Applicatieontwikkeling\Inleiding programmeren\01 Sequentie\oef_01_09\obj\Debug\netcoreapp3.1\oef_01_09.genruntimeconfig.cache
