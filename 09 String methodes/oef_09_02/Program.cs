@@ -8,7 +8,8 @@ namespace oef_09_02
         {
             PasSchermkleurenAan();
 
-            string input = GeefRekeningnummer();
+            //string input = GeefRekeningnummer();
+            string input = "979-9319840-85";
 
             Console.WriteLine(input.Length == 14);
             Console.WriteLine(input.IndexOf("-") == 3);
@@ -58,7 +59,7 @@ namespace oef_09_02
                 {
                     long noemer = long.Parse(input.Substring(0, 3) + input.Substring(4, 7));
                     long deler = long.Parse(input.Substring(12, 2));
-                    if (noemer%deler == deler)
+                    if (noemer % (noemer / deler) == (noemer / deler))
                     {
                         result = "geldig";
                     }

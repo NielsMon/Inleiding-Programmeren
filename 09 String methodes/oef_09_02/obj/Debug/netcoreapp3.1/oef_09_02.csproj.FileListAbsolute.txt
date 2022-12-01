@@ -11,3 +11,4 @@ C:\Users\monde.LAPTOP-EQMJR3R3\OneDrive\Documenten\Data\Programmeren\Applicatieo
 C:\Users\monde.LAPTOP-EQMJR3R3\OneDrive\Documenten\Data\Programmeren\Applicatieontwikkeling\Inleiding programmeren\Inleiding-Programmeren\09 String methodes\oef_09_02\obj\Debug\netcoreapp3.1\oef_09_02.dll
 C:\Users\monde.LAPTOP-EQMJR3R3\OneDrive\Documenten\Data\Programmeren\Applicatieontwikkeling\Inleiding programmeren\Inleiding-Programmeren\09 String methodes\oef_09_02\obj\Debug\netcoreapp3.1\oef_09_02.pdb
 C:\Users\monde.LAPTOP-EQMJR3R3\OneDrive\Documenten\Data\Programmeren\Applicatieontwikkeling\Inleiding programmeren\Inleiding-Programmeren\09 String methodes\oef_09_02\obj\Debug\netcoreapp3.1\oef_09_02.genruntimeconfig.cache
+C:\Users\monde.LAPTOP-EQMJR3R3\OneDrive\Documenten\Data\Programmeren\Applicatieontwikkeling\Inleiding programmeren\Inleiding-Programmeren\09 String methodes\oef_09_02\obj\Debug\netcoreapp3.1\oef_09_02.csproj.AssemblyReference.cache
