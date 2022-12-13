@@ -1,0 +1,7 @@
+voetbal
+badminton
+zwemmen
+fietsen
+lopen
+fitnes
+crossfit

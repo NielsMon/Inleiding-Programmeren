@@ -1,0 +1,16 @@
+C:\Users\monde.LAPTOP-EQMJR3R3\OneDrive\Documenten\Data\Programmeren\Applicatieontwikkeling\Inleiding programmeren\Inleiding-Programmeren\10 Bestanden\oef_10_02\bin\Debug\netcoreapp3.1\oef_10_02.exe
+C:\Users\monde.LAPTOP-EQMJR3R3\OneDrive\Documenten\Data\Programmeren\Applicatieontwikkeling\Inleiding programmeren\Inleiding-Programmeren\10 Bestanden\oef_10_02\bin\Debug\netcoreapp3.1\sjaal-1.txt
+C:\Users\monde.LAPTOP-EQMJR3R3\OneDrive\Documenten\Data\Programmeren\Applicatieontwikkeling\Inleiding programmeren\Inleiding-Programmeren\10 Bestanden\oef_10_02\bin\Debug\netcoreapp3.1\sjaal-2.txt
+C:\Users\monde.LAPTOP-EQMJR3R3\OneDrive\Documenten\Data\Programmeren\Applicatieontwikkeling\Inleiding programmeren\Inleiding-Programmeren\10 Bestanden\oef_10_02\bin\Debug\netcoreapp3.1\oef_10_02.deps.json
+C:\Users\monde.LAPTOP-EQMJR3R3\OneDrive\Documenten\Data\Programmeren\Applicatieontwikkeling\Inleiding programmeren\Inleiding-Programmeren\10 Bestanden\oef_10_02\bin\Debug\netcoreapp3.1\oef_10_02.runtimeconfig.json
+C:\Users\monde.LAPTOP-EQMJR3R3\OneDrive\Documenten\Data\Programmeren\Applicatieontwikkeling\Inleiding programmeren\Inleiding-Programmeren\10 Bestanden\oef_10_02\bin\Debug\netcoreapp3.1\oef_10_02.runtimeconfig.dev.json
+C:\Users\monde.LAPTOP-EQMJR3R3\OneDrive\Documenten\Data\Programmeren\Applicatieontwikkeling\Inleiding programmeren\Inleiding-Programmeren\10 Bestanden\oef_10_02\bin\Debug\netcoreapp3.1\oef_10_02.dll
+C:\Users\monde.LAPTOP-EQMJR3R3\OneDrive\Documenten\Data\Programmeren\Applicatieontwikkeling\Inleiding programmeren\Inleiding-Programmeren\10 Bestanden\oef_10_02\bin\Debug\netcoreapp3.1\oef_10_02.pdb
+C:\Users\monde.LAPTOP-EQMJR3R3\OneDrive\Documenten\Data\Programmeren\Applicatieontwikkeling\Inleiding programmeren\Inleiding-Programmeren\10 Bestanden\oef_10_02\obj\Debug\netcoreapp3.1\oef_10_02.csproj.AssemblyReference.cache
+C:\Users\monde.LAPTOP-EQMJR3R3\OneDrive\Documenten\Data\Programmeren\Applicatieontwikkeling\Inleiding programmeren\Inleiding-Programmeren\10 Bestanden\oef_10_02\obj\Debug\netcoreapp3.1\oef_10_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monde.LAPTOP-EQMJR3R3\OneDrive\Documenten\Data\Programmeren\Applicatieontwikkeling\Inleiding programmeren\Inleiding-Programmeren\10 Bestanden\oef_10_02\obj\Debug\netcoreapp3.1\oef_10_02.AssemblyInfoInputs.cache
+C:\Users\monde.LAPTOP-EQMJR3R3\OneDrive\Documenten\Data\Programmeren\Applicatieontwikkeling\Inleiding programmeren\Inleiding-Programmeren\10 Bestanden\oef_10_02\obj\Debug\netcoreapp3.1\oef_10_02.AssemblyInfo.cs
+C:\Users\monde.LAPTOP-EQMJR3R3\OneDrive\Documenten\Data\Programmeren\Applicatieontwikkeling\Inleiding programmeren\Inleiding-Programmeren\10 Bestanden\oef_10_02\obj\Debug\netcoreapp3.1\oef_10_02.csproj.CoreCompileInputs.cache
+C:\Users\monde.LAPTOP-EQMJR3R3\OneDrive\Documenten\Data\Programmeren\Applicatieontwikkeling\Inleiding programmeren\Inleiding-Programmeren\10 Bestanden\oef_10_02\obj\Debug\netcoreapp3.1\oef_10_02.dll
+C:\Users\monde.LAPTOP-EQMJR3R3\OneDrive\Documenten\Data\Programmeren\Applicatieontwikkeling\Inleiding programmeren\Inleiding-Programmeren\10 Bestanden\oef_10_02\obj\Debug\netcoreapp3.1\oef_10_02.pdb
+C:\Users\monde.LAPTOP-EQMJR3R3\OneDrive\Documenten\Data\Programmeren\Applicatieontwikkeling\Inleiding programmeren\Inleiding-Programmeren\10 Bestanden\oef_10_02\obj\Debug\netcoreapp3.1\oef_10_02.genruntimeconfig.cache
