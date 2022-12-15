@@ -53,22 +53,30 @@ namespace oef_10_03
         }
         private static List<int> LeesPunten(string bestandsnaam)
         {
+            bool stop = false;
             List<int> punten = new List<int>();
-            if (File.Exists(bestandsnaam))
+            while (!stop)
             {
-                using(StreamReader streamReader = new StreamReader(bestandsnaam))
+                if (File.Exists(bestandsnaam))
                 {
-                    while (!streamReader.EndOfStream)
+                    using (StreamReader streamReader = new StreamReader(bestandsnaam))
                     {
-                        string record = streamReader.ReadLine();
-                        punten.Add(int.Parse(record));
+                        while (!streamReader.EndOfStream)
+                        {
+                            string record = streamReader.ReadLine();
+                            punten.Add(int.Parse(record));
+                        }
                     }
+                    stop = true;
+                }
+                
+                else
+                {
+                    bestandsnaam = LeesBestandsnaam();
+                    stop = false;
                 }
             }
-            else
-            {
-                Console.WriteLine($"{bestandsnaam} bestaat niet");
-            }
+            
             return punten;
         }
         private static void GeefGemiddelde(List<int> punten)

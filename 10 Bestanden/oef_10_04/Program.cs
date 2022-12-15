@@ -44,7 +44,7 @@ namespace oef_10_04
             int number;
             do
             {
-                //Console.Write("Welk gedicht wil je lezen (0 = stop): ");
+                Console.Write("Welk gedicht wil je lezen (0 = stop): ");
                 input = Console.ReadLine();
             } while (!int.TryParse(input, out number) || number < 0);
             return number;
@@ -56,7 +56,7 @@ namespace oef_10_04
 
             if (File.Exists(bestandsnaam))
             {
-                output = $"Gedicht {number}\n{new string('=', 9)}";
+                output = $"Gedicht {number}\n{new string('=', bestandsnaam.Length-4)}";
                 using (StreamReader streamReader = new StreamReader(bestandsnaam))
                 {
                     while (!streamReader.EndOfStream)
