@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\monde.LAPTOP-EQMJR3R3\\OneDrive\\Documenten\\Data\\Programmeren\\Applicatieontwikkeling\\Inleiding programmeren\\02 Selectie deel 1\\oef_02_02\\oef_02_02.csproj",
+      "projectUniqueName": "C:\\Users\\monde.LAPTOP-EQMJR3R3\\OneDrive\\Documenten\\Data\\Programmeren\\Applicatieontwikkeling\\Inleiding programmeren\\Inleiding-Programmeren\\02 Selectie deel 1\\oef_02_02\\oef_02_02.csproj",
       "projectName": "oef_02_02",
-      "projectPath": "C:\\Users\\monde.LAPTOP-EQMJR3R3\\OneDrive\\Documenten\\Data\\Programmeren\\Applicatieontwikkeling\\Inleiding programmeren\\02 Selectie deel 1\\oef_02_02\\oef_02_02.csproj",
+      "projectPath": "C:\\Users\\monde.LAPTOP-EQMJR3R3\\OneDrive\\Documenten\\Data\\Programmeren\\Applicatieontwikkeling\\Inleiding programmeren\\Inleiding-Programmeren\\02 Selectie deel 1\\oef_02_02\\oef_02_02.csproj",
       "packagesPath": "C:\\Users\\monde.LAPTOP-EQMJR3R3\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\monde.LAPTOP-EQMJR3R3\\OneDrive\\Documenten\\Data\\Programmeren\\Applicatieontwikkeling\\Inleiding programmeren\\02 Selectie deel 1\\oef_02_02\\obj\\",
+      "outputPath": "C:\\Users\\monde.LAPTOP-EQMJR3R3\\OneDrive\\Documenten\\Data\\Programmeren\\Applicatieontwikkeling\\Inleiding programmeren\\Inleiding-Programmeren\\02 Selectie deel 1\\oef_02_02\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\monde.LAPTOP-EQMJR3R3\\AppData\\Roaming\\NuGet\\NuGet.Config",

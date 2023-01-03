@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\monde.LAPTOP-EQMJR3R3\\OneDrive\\Documenten\\Data\\Programmeren\\Applicatieontwikkeling\\Inleiding programmeren\\07 Collections\\Les_07\\Les_07.csproj",
+      "projectUniqueName": "C:\\Users\\monde.LAPTOP-EQMJR3R3\\OneDrive\\Documenten\\Data\\Programmeren\\Applicatieontwikkeling\\Inleiding programmeren\\Inleiding-Programmeren\\07 Collections\\Les_07\\Les_07.csproj",
       "projectName": "Les_07",
-      "projectPath": "C:\\Users\\monde.LAPTOP-EQMJR3R3\\OneDrive\\Documenten\\Data\\Programmeren\\Applicatieontwikkeling\\Inleiding programmeren\\07 Collections\\Les_07\\Les_07.csproj",
+      "projectPath": "C:\\Users\\monde.LAPTOP-EQMJR3R3\\OneDrive\\Documenten\\Data\\Programmeren\\Applicatieontwikkeling\\Inleiding programmeren\\Inleiding-Programmeren\\07 Collections\\Les_07\\Les_07.csproj",
       "packagesPath": "C:\\Users\\monde.LAPTOP-EQMJR3R3\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\monde.LAPTOP-EQMJR3R3\\OneDrive\\Documenten\\Data\\Programmeren\\Applicatieontwikkeling\\Inleiding programmeren\\07 Collections\\Les_07\\obj\\",
+      "outputPath": "C:\\Users\\monde.LAPTOP-EQMJR3R3\\OneDrive\\Documenten\\Data\\Programmeren\\Applicatieontwikkeling\\Inleiding programmeren\\Inleiding-Programmeren\\07 Collections\\Les_07\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\monde.LAPTOP-EQMJR3R3\\AppData\\Roaming\\NuGet\\NuGet.Config",

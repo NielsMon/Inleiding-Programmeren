@@ -13,43 +13,53 @@ namespace oef_04_04
             Console.Clear();
 
             // data opvragen
-            Console.Write("Geef een symbool: ");
-            string symbEen = Console.ReadLine();
-            Console.Write("Geef een symbool: ");
-            string symbTwee = Console.ReadLine();
-            Console.Write("Geef een lengte: ");
-            int lengte = int.Parse(Console.ReadLine());
-            Console.Write("Geef een breedte: ");
-            int breedte = int.Parse(Console.ReadLine());
+            string symbEen = GeefSymbool();
+            string symbTwee = GeefSymbool();
+            int lengte = GeefMaat("lengte");
+            int breedte = GeefMaat("breedte");
 
             // bewerkingen uitvoeren
             bool isEen = true;
-            string output;
+            string output = string.Empty;
+
             for (int i = 0; i < lengte; i++)
             {
                 if (isEen)
                 {
-                    for (int j = 0; j < breedte; j++)
-                    {
-                        Console.Write(symbEen);
-                    }
+                    PrintLijn(breedte, output, symbEen);
                     isEen = false;
-                    Console.WriteLine();
                 }
                 else
                 {
-                    for (int j = 0; j < breedte; j++)
-                    {
-                        Console.Write(symbTwee);
-                    }
+                    PrintLijn(breedte,output, symbTwee);
                     isEen = true;
-                    Console.WriteLine();
                 }
             }
+
+            Console.WriteLine(output);
 
             // Programma afsluiten
             Console.WriteLine("\nDruk ENTER om af te sluiten!");
             Console.ReadLine();
+        }
+        private static string GeefSymbool()
+        {
+            Console.Write("Geef een symbool: ");
+            return Console.ReadLine();
+        }
+        private static int GeefMaat(string zijde)
+        {
+            Console.Write($"Geef een {zijde}: ");
+            return int.Parse(Console.ReadLine());
+        }
+        private static string PrintLijn(int maat, string output, string symbool)
+        {
+            for (int i = 0; i < maat; i++)
+            {
+                output += symbool + " ";
+            }
+            output += "\n";
+            return output;
         }
     }
 }

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\monde.LAPTOP-EQMJR3R3\\OneDrive\\Documenten\\Data\\Programmeren\\Applicatieontwikkeling\\Inleiding programmeren\\06 While Do\\oef_05_05\\oef_05_05.csproj",
+      "projectUniqueName": "C:\\Users\\monde.LAPTOP-EQMJR3R3\\OneDrive\\Documenten\\Data\\Programmeren\\Applicatieontwikkeling\\Inleiding programmeren\\Inleiding-Programmeren\\05 Do While\\oef_05_05\\oef_05_05.csproj",
       "projectName": "oef_05_05",
-      "projectPath": "C:\\Users\\monde.LAPTOP-EQMJR3R3\\OneDrive\\Documenten\\Data\\Programmeren\\Applicatieontwikkeling\\Inleiding programmeren\\06 While Do\\oef_05_05\\oef_05_05.csproj",
+      "projectPath": "C:\\Users\\monde.LAPTOP-EQMJR3R3\\OneDrive\\Documenten\\Data\\Programmeren\\Applicatieontwikkeling\\Inleiding programmeren\\Inleiding-Programmeren\\05 Do While\\oef_05_05\\oef_05_05.csproj",
       "packagesPath": "C:\\Users\\monde.LAPTOP-EQMJR3R3\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\monde.LAPTOP-EQMJR3R3\\OneDrive\\Documenten\\Data\\Programmeren\\Applicatieontwikkeling\\Inleiding programmeren\\06 While Do\\oef_05_05\\obj\\",
+      "outputPath": "C:\\Users\\monde.LAPTOP-EQMJR3R3\\OneDrive\\Documenten\\Data\\Programmeren\\Applicatieontwikkeling\\Inleiding programmeren\\Inleiding-Programmeren\\05 Do While\\oef_05_05\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\monde.LAPTOP-EQMJR3R3\\AppData\\Roaming\\NuGet\\NuGet.Config",

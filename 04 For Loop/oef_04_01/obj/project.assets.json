@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\monde.LAPTOP-EQMJR3R3\\OneDrive\\Documenten\\Data\\Programmeren\\Applicatieontwikkeling\\Inleiding programmeren\\04 For Loop\\oef_04_01\\oef_04_01.csproj",
+      "projectUniqueName": "C:\\Users\\monde.LAPTOP-EQMJR3R3\\OneDrive\\Documenten\\Data\\Programmeren\\Applicatieontwikkeling\\Inleiding programmeren\\Inleiding-Programmeren\\04 For Loop\\oef_04_01\\oef_04_01.csproj",
       "projectName": "oef_04_01",
-      "projectPath": "C:\\Users\\monde.LAPTOP-EQMJR3R3\\OneDrive\\Documenten\\Data\\Programmeren\\Applicatieontwikkeling\\Inleiding programmeren\\04 For Loop\\oef_04_01\\oef_04_01.csproj",
+      "projectPath": "C:\\Users\\monde.LAPTOP-EQMJR3R3\\OneDrive\\Documenten\\Data\\Programmeren\\Applicatieontwikkeling\\Inleiding programmeren\\Inleiding-Programmeren\\04 For Loop\\oef_04_01\\oef_04_01.csproj",
       "packagesPath": "C:\\Users\\monde.LAPTOP-EQMJR3R3\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\monde.LAPTOP-EQMJR3R3\\OneDrive\\Documenten\\Data\\Programmeren\\Applicatieontwikkeling\\Inleiding programmeren\\04 For Loop\\oef_04_01\\obj\\",
+      "outputPath": "C:\\Users\\monde.LAPTOP-EQMJR3R3\\OneDrive\\Documenten\\Data\\Programmeren\\Applicatieontwikkeling\\Inleiding programmeren\\Inleiding-Programmeren\\04 For Loop\\oef_04_01\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\monde.LAPTOP-EQMJR3R3\\AppData\\Roaming\\NuGet\\NuGet.Config",

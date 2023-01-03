@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\monde.LAPTOP-EQMJR3R3\\OneDrive\\Documenten\\Data\\Programmeren\\Applicatieontwikkeling\\Inleiding programmeren\\01 Sequentie\\oef_01_03\\oef_01_03.csproj": {}
+    "C:\\Users\\monde.LAPTOP-EQMJR3R3\\OneDrive\\Documenten\\Data\\Programmeren\\Applicatieontwikkeling\\Inleiding programmeren\\Inleiding-Programmeren\\01 Sequentie\\oef_01_03\\oef_01_03.csproj": {}
   },
   "projects": {
-    "C:\\Users\\monde.LAPTOP-EQMJR3R3\\OneDrive\\Documenten\\Data\\Programmeren\\Applicatieontwikkeling\\Inleiding programmeren\\01 Sequentie\\oef_01_03\\oef_01_03.csproj": {
+    "C:\\Users\\monde.LAPTOP-EQMJR3R3\\OneDrive\\Documenten\\Data\\Programmeren\\Applicatieontwikkeling\\Inleiding programmeren\\Inleiding-Programmeren\\01 Sequentie\\oef_01_03\\oef_01_03.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\monde.LAPTOP-EQMJR3R3\\OneDrive\\Documenten\\Data\\Programmeren\\Applicatieontwikkeling\\Inleiding programmeren\\01 Sequentie\\oef_01_03\\oef_01_03.csproj",
+        "projectUniqueName": "C:\\Users\\monde.LAPTOP-EQMJR3R3\\OneDrive\\Documenten\\Data\\Programmeren\\Applicatieontwikkeling\\Inleiding programmeren\\Inleiding-Programmeren\\01 Sequentie\\oef_01_03\\oef_01_03.csproj",
         "projectName": "oef_01_03",
-        "projectPath": "C:\\Users\\monde.LAPTOP-EQMJR3R3\\OneDrive\\Documenten\\Data\\Programmeren\\Applicatieontwikkeling\\Inleiding programmeren\\01 Sequentie\\oef_01_03\\oef_01_03.csproj",
+        "projectPath": "C:\\Users\\monde.LAPTOP-EQMJR3R3\\OneDrive\\Documenten\\Data\\Programmeren\\Applicatieontwikkeling\\Inleiding programmeren\\Inleiding-Programmeren\\01 Sequentie\\oef_01_03\\oef_01_03.csproj",
         "packagesPath": "C:\\Users\\monde.LAPTOP-EQMJR3R3\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\monde.LAPTOP-EQMJR3R3\\OneDrive\\Documenten\\Data\\Programmeren\\Applicatieontwikkeling\\Inleiding programmeren\\01 Sequentie\\oef_01_03\\obj\\",
+        "outputPath": "C:\\Users\\monde.LAPTOP-EQMJR3R3\\OneDrive\\Documenten\\Data\\Programmeren\\Applicatieontwikkeling\\Inleiding programmeren\\Inleiding-Programmeren\\01 Sequentie\\oef_01_03\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\monde.LAPTOP-EQMJR3R3\\AppData\\Roaming\\NuGet\\NuGet.Config",

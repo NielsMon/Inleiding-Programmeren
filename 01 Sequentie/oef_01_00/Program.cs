@@ -22,6 +22,9 @@ namespace oef_01_00
             Console.WriteLine($"Oppervlakte: {oppervlakte}");
 
             Console.ReadLine();
+
+            string teken = "+";
+            Console.WriteLine($"5 {teken} 5 = {5 + 5}");
         }
     }
 }

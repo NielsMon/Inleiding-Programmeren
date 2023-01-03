@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace oef_07_06
 {
@@ -13,65 +15,62 @@ namespace oef_07_06
             Console.Title = "Les 7: Oefening 6";
 
             // Variabelen declareren
-            int[] plaatsen = new int[40];
-            bool succes = false, stop = false;
-            string input = string.Empty;
-            int getal;
+            List<int> list = new List<int>();
 
-            // Data inlezen
-            do
+            string input = ReserveerZitplaats();
+
+            while (input.ToLower() != "stop")
             {
-                Console.Write("Reserveer plaats: ");
-                input = Console.ReadLine();
-                succes = int.TryParse(input, out getal);
-                if (input == "stop")
+                bool isDubbel = false;
+                int getal = int.Parse(input);
+                foreach (var item in list)
                 {
-                    succes = true;
-                    stop = true;
-                }
-            } while (!succes);
-
-            while (!stop)
-            {
-                if (getal < 1 || getal > 40)
-                {
-                    Console.WriteLine("Deze zitplaats bestaat niet");
-                }else if (plaatsen[getal -1] == getal)
-                {
-                    Console.WriteLine("Deze zitplaats is bezet");
-                }
-                else
-                {
-                    plaatsen[getal -1] = getal;
-                }
-
-                do
-                {
-                    Console.Write("Reserveer plaats: ");
-                    input = Console.ReadLine();
-                    succes = int.TryParse(input, out getal);
-                    if (input == "stop")
+                    if (getal == item)
                     {
-                        succes = true;
-                        stop = true;
+                        isDubbel = true;
                     }
-                } while (!succes);
-            }
-
-            // Resultaten afdrukken
-            foreach (var item in plaatsen)
-            {
-                if (item != 0)
-                {
-                    Console.WriteLine(item);
                 }
                 
+                if (!isDubbel)
+                {
+                    list.Add(getal);
+                }
+                input = ReserveerZitplaats();
             }
+
+            foreach (var item in list)
+            {
+                Console.WriteLine(item);
+            }
+            
 
 
             // Programma afsluiten
             Console.WriteLine("\nDruk ENTER om af te sluiten!");
             Console.ReadLine();
+        }
+        private static string ReserveerZitplaats()
+        {
+            bool success = false;
+            string input;
+            int plaats;
+            do
+            {
+                Console.Write("Reserveer plaats: ");
+                input= Console.ReadLine();
+                success = int.TryParse((input), out plaats);
+                if (input.ToLower() == "stop")
+                {
+                    success = true;
+                }
+                else if (plaats < 1 || plaats > 40)
+                {
+                    Console.WriteLine("Deze zitplaats bestaat niet!");
+                    success = false;
+                }
+            } while (!success);
+
+            return input;
         }
     }
 }
