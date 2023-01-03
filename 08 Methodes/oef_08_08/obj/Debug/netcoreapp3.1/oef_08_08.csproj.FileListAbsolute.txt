@@ -1,0 +1,13 @@
+C:\Users\monde.LAPTOP-EQMJR3R3\OneDrive\Documenten\Data\Programmeren\Applicatieontwikkeling\Inleiding programmeren\Inleiding-Programmeren\08 Methodes\oef_08_08\bin\Debug\netcoreapp3.1\oef_08_08.exe
+C:\Users\monde.LAPTOP-EQMJR3R3\OneDrive\Documenten\Data\Programmeren\Applicatieontwikkeling\Inleiding programmeren\Inleiding-Programmeren\08 Methodes\oef_08_08\bin\Debug\netcoreapp3.1\oef_08_08.deps.json
+C:\Users\monde.LAPTOP-EQMJR3R3\OneDrive\Documenten\Data\Programmeren\Applicatieontwikkeling\Inleiding programmeren\Inleiding-Programmeren\08 Methodes\oef_08_08\bin\Debug\netcoreapp3.1\oef_08_08.runtimeconfig.json
+C:\Users\monde.LAPTOP-EQMJR3R3\OneDrive\Documenten\Data\Programmeren\Applicatieontwikkeling\Inleiding programmeren\Inleiding-Programmeren\08 Methodes\oef_08_08\bin\Debug\netcoreapp3.1\oef_08_08.runtimeconfig.dev.json
+C:\Users\monde.LAPTOP-EQMJR3R3\OneDrive\Documenten\Data\Programmeren\Applicatieontwikkeling\Inleiding programmeren\Inleiding-Programmeren\08 Methodes\oef_08_08\bin\Debug\netcoreapp3.1\oef_08_08.dll
+C:\Users\monde.LAPTOP-EQMJR3R3\OneDrive\Documenten\Data\Programmeren\Applicatieontwikkeling\Inleiding programmeren\Inleiding-Programmeren\08 Methodes\oef_08_08\bin\Debug\netcoreapp3.1\oef_08_08.pdb
+C:\Users\monde.LAPTOP-EQMJR3R3\OneDrive\Documenten\Data\Programmeren\Applicatieontwikkeling\Inleiding programmeren\Inleiding-Programmeren\08 Methodes\oef_08_08\obj\Debug\netcoreapp3.1\oef_08_08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monde.LAPTOP-EQMJR3R3\OneDrive\Documenten\Data\Programmeren\Applicatieontwikkeling\Inleiding programmeren\Inleiding-Programmeren\08 Methodes\oef_08_08\obj\Debug\netcoreapp3.1\oef_08_08.AssemblyInfoInputs.cache
+C:\Users\monde.LAPTOP-EQMJR3R3\OneDrive\Documenten\Data\Programmeren\Applicatieontwikkeling\Inleiding programmeren\Inleiding-Programmeren\08 Methodes\oef_08_08\obj\Debug\netcoreapp3.1\oef_08_08.AssemblyInfo.cs
+C:\Users\monde.LAPTOP-EQMJR3R3\OneDrive\Documenten\Data\Programmeren\Applicatieontwikkeling\Inleiding programmeren\Inleiding-Programmeren\08 Methodes\oef_08_08\obj\Debug\netcoreapp3.1\oef_08_08.csproj.CoreCompileInputs.cache
+C:\Users\monde.LAPTOP-EQMJR3R3\OneDrive\Documenten\Data\Programmeren\Applicatieontwikkeling\Inleiding programmeren\Inleiding-Programmeren\08 Methodes\oef_08_08\obj\Debug\netcoreapp3.1\oef_08_08.dll
+C:\Users\monde.LAPTOP-EQMJR3R3\OneDrive\Documenten\Data\Programmeren\Applicatieontwikkeling\Inleiding programmeren\Inleiding-Programmeren\08 Methodes\oef_08_08\obj\Debug\netcoreapp3.1\oef_08_08.pdb
+C:\Users\monde.LAPTOP-EQMJR3R3\OneDrive\Documenten\Data\Programmeren\Applicatieontwikkeling\Inleiding programmeren\Inleiding-Programmeren\08 Methodes\oef_08_08\obj\Debug\netcoreapp3.1\oef_08_08.genruntimeconfig.cache
